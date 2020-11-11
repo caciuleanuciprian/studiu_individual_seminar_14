@@ -1,0 +1,5 @@
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema14\StudiuIndividualProblema14\bin\Debug\StudiuIndividualProblema14.exe.config
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema14\StudiuIndividualProblema14\bin\Debug\StudiuIndividualProblema14.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema14\StudiuIndividualProblema14\bin\Debug\StudiuIndividualProblema14.pdb
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema14\StudiuIndividualProblema14\obj\Debug\StudiuIndividualProblema14.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema14\StudiuIndividualProblema14\obj\Debug\StudiuIndividualProblema14.pdb
